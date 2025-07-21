@@ -1,4 +1,4 @@
-import { type GetTestResponse } from "@monorepo/types";
+import { GetTestResponse } from "@monorepo/types";
 import { Router } from "express";
 
 const testRouter = Router();
